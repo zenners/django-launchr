@@ -9,6 +9,11 @@ from forms import SupportForm
 class HomeView(TemplateView):
     template_name = "pages/home.html"
 
+class LoginView(TemplateView):
+    template_name = "pages/login.html"
+
+class SignupView(TemplateView):
+    template_name = "pages/signup.html"
 
 class TermsView(TemplateView):
     template_name = "pages/tos.html"

@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .intro .text-lead {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .cta .text-lead {
@@ -138,9 +138,9 @@ footer {
   background-color: #051b35 !important;
 }
 
-.navbar-main.navbar {
+/* .navbar-main.navbar {
   padding-top: 20px;
-}
+} */
 
 .navbar-main.nav-item {
   margin-top: 8px;
